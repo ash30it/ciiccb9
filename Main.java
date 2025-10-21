@@ -13,7 +13,6 @@ public class Main {
         }else{
             System.out.println(num + " is odd number");
         }*/
-
         /*for(short num=10; num>=0; num--){
             for(short x=10; x>=0; x--){
                 System.out.print("*");
