@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
+    private String brand;
+    private boolean empty;
+
     public static void main(String[] args) {
         
         /*int num;
@@ -24,6 +27,9 @@ public class Main {
         plant1.name="papaya";
         System.out.println(plant1.name);
         System.out.println(plant1.getBranch());
+        /*Main wb=new Main();
+        System.out.print("Empty = "+wb.empty);
+        System.out.println(", Brand = "+wb.brand);*/
     }
 }
 
